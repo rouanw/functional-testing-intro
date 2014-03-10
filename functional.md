@@ -23,3 +23,22 @@
 * Tool to describe functionality (we're using Cucumber)
 * A way to call the functionality (we're using Spring's REST template)
 * Assertions to verify the functionality (we're using hamcrest)
+
+---
+
+## Test code as a first class citizen
+
+* Abstractions
+* Reuse (DRY)
+* Refactoring
+
+---
+
+## Gotchas
+
+* Too slow
+* Too brittle
+* Too many
+* Only devs care
+* Only testers care
+
